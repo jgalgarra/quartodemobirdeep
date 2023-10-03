@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello, Quarto",
+    "section": "",
+    "text": "Esto es una página web demo construida con Quarto https://quarto.org y editada con RStudio"
+  },
+  {
+    "objectID": "index.html#demo-web-de-proyecto-en-github",
+    "href": "index.html#demo-web-de-proyecto-en-github",
+    "title": "Hello, Quarto",
+    "section": "",
+    "text": "Esto es una página web demo construida con Quarto https://quarto.org y editada con RStudio"
+  },
+  {
+    "objectID": "index.html#pajaritos",
+    "href": "index.html#pajaritos",
+    "title": "Hello, Quarto",
+    "section": "Pajaritos",
+    "text": "Pajaritos\nBidDeep es un proyecto de CSIC-EBD Doñana y U-tad para el estudio de la fenología aviar mediante el análisis del canto con inteligencia artificial.\n\n\n\n\n\n\n\nPágina demo de proyecto en github\n\n\n\n\n\nTítulo RMD\nEsto es un párrafo en MarkDown, la figura de abajo de los pingüinos no viene a cuento pero es un ejemplo de cómo añadir código en R en la página\n\n\nFigura R"
+  },
+  {
+    "objectID": "index.html#python",
+    "href": "index.html#python",
+    "title": "Hello, Quarto",
+    "section": "Python",
+    "text": "Python\nY ahora una figura generada con Python, todo desde el mismo fichero Quarto"
+  }
+]
